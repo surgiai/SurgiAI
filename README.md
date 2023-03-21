@@ -1,5 +1,5 @@
 ### Hi there 👋
-Im Brian wesson the human droid 
+Im Brian wesson the creator of 
 <!--
 **surgiai/SurgiAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
