@@ -1,5 +1,5 @@
 ### Hi there 👋
-Im Brian wesson the creator of 
+Im Brian wesson the creator of SurgiAI
 <!--
 **surgiai/SurgiAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
