@@ -5,5 +5,5 @@ Im Brian wesson the creator of SurgiAI
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on the readme
+- 🔭 I’m currently working on the documentation it just me so beware with me!!
 
